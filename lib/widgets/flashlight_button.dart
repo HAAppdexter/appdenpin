@@ -29,7 +29,7 @@ class FlashlightButton extends StatelessWidget {
               ? [
                   BoxShadow(
                     color: Colors.blue.withAlpha(100),
-                    spreadRadius: 12,
+                    spreadRadius: 120,
                     blurRadius: 30,
                     offset: const Offset(0, 0),
                   )
