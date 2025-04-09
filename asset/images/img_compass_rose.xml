@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="200.0dip" android:width="200.0dip" android:viewportWidth="200.0" android:viewportHeight="200.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M100,15 L100,27" android:strokeColor="#ffff0101" android:strokeWidth="2.0" />
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="2.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="4.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="6.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="8.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="10.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="12.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="14.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="16.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="18.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="20.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="22.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="24.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="26.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="28.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="30.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="32.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="34.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="36.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="38.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="40.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="42.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="44.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="46.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="48.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="50.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="52.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="54.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="56.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="58.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="60.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="62.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="64.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="66.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="68.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="70.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="72.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="74.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="76.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="78.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="80.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="82.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="84.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="86.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="88.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="90.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="92.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="94.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="96.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="98.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="100.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="102.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="104.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="106.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="108.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="110.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="112.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="114.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="116.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="118.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="120.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="122.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="124.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="126.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="128.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="130.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="132.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="134.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="136.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="138.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="140.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="142.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="144.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="146.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="148.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="150.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="152.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="154.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="156.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="158.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="160.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="162.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="164.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="166.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="168.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="170.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="172.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="174.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="176.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="178.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="180.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="182.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="184.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="186.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="188.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="190.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="192.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="194.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="196.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="198.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="200.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="202.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="204.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="206.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="208.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="210.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="212.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="214.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="216.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="218.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="220.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="222.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="224.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="226.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="228.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="230.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="232.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="234.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="236.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="238.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="240.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="242.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="244.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="246.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="248.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="250.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="252.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="254.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="256.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="258.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="260.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="262.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="264.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="266.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="268.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="270.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="272.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="274.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="276.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="278.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="280.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="282.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="284.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="286.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="288.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="290.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="292.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="294.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="296.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="298.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="300.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="302.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="304.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="306.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="308.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="310.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="312.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="314.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="316.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="318.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="320.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="322.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="324.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="326.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="328.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="330.0">
+        <path android:pathData="M100,16 L100,27" android:strokeColor="@color/white" android:strokeWidth="2.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="332.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="334.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="336.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="338.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="340.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="342.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="344.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="346.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="348.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="350.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="352.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="354.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="356.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+    <group android:pivotX="100.0" android:pivotY="100.0" android:rotation="358.0">
+        <path android:pathData="M100,20 L100,27" android:strokeColor="@color/compass_line" android:strokeWidth="1.0" />
+    </group>
+</vector>
